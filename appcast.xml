@@ -3,12 +3,12 @@
     <channel>
         <title>TextSelect</title>
         <item>
-            <title>0.9</title>
-            <pubDate>Thu, 17 Oct 2024 13:04:29 -0700</pubDate>
-            <sparkle:version>0.9</sparkle:version>
-            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <title>0.91</title>
+            <pubDate>Thu, 17 Oct 2024 13:20:52 -0700</pubDate>
+            <sparkle:version>0.91</sparkle:version>
+            <sparkle:shortVersionString>0.91</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ishangarg0/textselectrelease/releases/download/prod/TextSelect.dmg" length="880872" type="application/octet-stream" sparkle:edSignature="NRmUTOEjH5sKTg9YfBd/mXc7ptZ72rDOxjPaPVX1KdIxVZQGOczBXjtnB0p5smyGy6JhaATIMChhIWO/GoJVBA=="/>
+            <enclosure url="https://github.com/ishangarg0/textselectrelease/releases/download/prod/TextSelect.dmg" length="880812" type="application/octet-stream" sparkle:edSignature="2Na8S5G4G4fdjm5B0bM+DPXy9pyyFmqERe5Lt/JaAfhrF3B7ZGeOy3hQHYwJjQWeG8AabXxmCgvF/+cG3ZGkDw=="/>
         </item>
     </channel>
 </rss>
